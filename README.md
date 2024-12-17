@@ -1,7 +1,7 @@
 # 🔐 Simple Coding Tool - Enigma, ASCII, and Base Conversion
 
 ## Authors
-- **Timothé Watteau**
+- **Flavian Theurel**
 - **Thibault Mayer**  
 *Université de Technologie de Belfort-Montbéliard (UTBM) - Automne 2020*
 
@@ -25,3 +25,5 @@ This program provides users with an easy way to explore **various coding methods
    - Convert numbers to and from Binary, Decimal, Octal, and Hexadecimal formats.
 
 ---
+
+[Webiste to download the project](https://thibaultmayer.wixsite.com/website)
